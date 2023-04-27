@@ -10,3 +10,5 @@ This is a Bash script that automates the installation of various tools for Andro
  To use this script, simply download or clone the repository from GitHub and run the "android-pentesting-installer.sh" file. The script will prompt the user to select which tools they would like to install and will guide them through the installation process.
 
 This script is useful for security researchers, penetration testers, and anyone interested in Android security testing. It saves time and effort by automating the installation process of popular Android security tools. It can be used as a standalone script or integrated into a larger workflow.
+
+![image](https://user-images.githubusercontent.com/105013628/234982653-dafefb56-8abb-4487-ae64-9b44d8eb87d3.png)
